@@ -1,4 +1,4 @@
-# blog-preview-card
+# Blog Preview Card
 
 This is a beautifully crafted blog review card with dynamic shadow (hover) states.
 
