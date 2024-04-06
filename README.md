@@ -33,4 +33,4 @@ Live Site: [blog-preview-card](https://sushcod3.github.io/blog-preview-card/)
 
 ### Acknowledgments
 
-This project is a solution to the challenges provided by [Frontend Mentor](https://www.frontendmentor.io/solutions/efficient-age-calculation-with-javascript-and-vuejs-validation-L9dCXc8B0f), with additional features implemented by me.
+This project is a solution to the challenges provided by [Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-tailwind-css-3XGLb37XJt), with additional features implemented by me.
