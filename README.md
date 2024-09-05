@@ -2,7 +2,7 @@
 
 This is a beautifully crafted blog review card with dynamic shadow (hover) states.
 
-Live Site: [blog-preview-card](https://sushcod3.github.io/blog-preview-card/)
+Live Site: [blog-preview-card](https://isushmoy.github.io/blog-preview-card/)
 
 ## Table of contents
 
